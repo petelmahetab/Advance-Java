@@ -1,6 +1,10 @@
 <!DOCTYPE web-app PUBLIC
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+<<<<<<< HEAD
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
+=======
+<!-- "http://java.sun.com/dtd/web-app_2_3.dtd" >-->
+>>>>>>> 216e03d25ad4be6daa0c14a59ea28b30b162d066
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
